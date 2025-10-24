@@ -1,1 +1,1 @@
-My first project on the odin project lessons. By the end of thi project, i should have a grasp of html, css and javascript
+My first project on the odin project lessons. By the end of this project, i should have a grasp of html, css and javascript
